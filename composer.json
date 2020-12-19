@@ -1,0 +1,5 @@
+{
+    "require": {
+        "Portfolio": "1.0.*"
+    }
+}
