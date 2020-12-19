@@ -1,0 +1,70 @@
+<html> 
+<title>PORTFOLIO</title>
+<link rel="stylesheet" href="mycss.css">
+<head>  <link rel="stylesheet" href="style.css"></head>
+<center>
+  
+<div class="box1">
+  <div class="box2">
+  <div class ="box3">
+
+  </div>
+</div>
+  </div>
+<div class ="circle"></div>
+<h1>PORTFOLIO</h1>
+</center>
+</div>
+<center>
+  <div class="navigator">
+  <a href="index.html">HOME</a>
+  <a href="CSS.html">CSS</a>
+  <a href="SVG.html">SVG</a>
+  <a href="HTML5.html">HTML5</a>
+  </center>
+  <body>
+   
+<hr>
+<hr><center>
+<div class="footer">micahmaeee0@gmail.com</div>
+  </center>
+<div id="position" class="sunflower">
+	<div class="head">
+	    <div id="eye-1" class="eye"></div>
+	    <div id="eye-2" class="eye"></div>
+	    <div class="mouth"></div>
+	</div>
+	<div class="petals"></div>
+	<div class="trunk">
+		<div class="left-branch"></div>
+		<div class="right-branch"></div>
+	</div>
+	<div class="vase"></div>
+</div>
+    <div id="background-wrap">
+    <div class="x1">
+        <div class="cloud"></div>
+    </div>
+
+    <div class="x2">
+        <div class="cloud"></div>
+    </div>
+
+    <div class="x3">
+        <div class="cloud"></div>
+    </div>
+
+    <div class="x4">
+        <div class="cloud"></div>
+    </div>
+
+    <div class="x5">
+        <div class="cloud"></div>
+    </div>
+</div>
+    
+
+</div>
+</div>
+</body>
+  </html> 

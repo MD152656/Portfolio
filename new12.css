@@ -1,0 +1,60 @@
+svg {
+  background: ;
+  margin: auto;
+}
+
+body {
+  text-align: center;
+  font-family:arial;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* For Icons */
+
+.line-icon {
+  fill: none;
+  stroke: #000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 280;
+  stroke-dashoffset: 0;
+  height: 100px;
+}
+
+.stroke-4 {
+  stroke-width: 4;
+}
+
+.stroke-3 {
+  stroke-width: 2;
+}
+
+.stroke-2 {
+  stroke-width: 2;
+}
+
+.stroke-1 {
+  stroke-width: 1;
+}
+
+.svg-fill {
+  fill: #000;
+}
+
+.line-icon:hover {
+  -webkit-animation: draw 3s linear alternate infinite;
+  animation: draw 3s linear alternate infinite;
+  stroke: #999;
+}
+
+@-webkit-keyframes draw {
+  0% {
+    stroke-dashoffset: 280;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}

@@ -1,0 +1,13 @@
+body {
+  background-color: #FF9800;
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 7.5px;
+}
+
+path {
+  fill: transparent;
+}
+
+text {
+  fill: #333;
+}
